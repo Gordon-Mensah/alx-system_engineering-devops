@@ -1,2 +1,2 @@
-0;276;0c#!/bin/bash
-chown -h vicent staff  _hello
+#!/bin/bash
+chown -h vicent,staff  _hello
